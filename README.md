@@ -1,3 +1,6 @@
 # AgentBench
 
-A general-purpose workbench for experimenting with AI coding agents, independent of any specific project.
+A general-purpose (non-project-specific) workbench for researching Unity
+features based on documentation and C# source code.
+
+It's also used for managing GitHub repositories and issues.
