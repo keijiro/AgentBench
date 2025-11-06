@@ -1,0 +1,13 @@
+Thumbs.db
+Desktop.ini
+.DS_Store
+*.swp
+
+/UnityProject/Library
+/UnityProject/Logs
+/UnityProject/Temp
+/UnityProject/UserSettings
+
+/Documentation
+/UnityCsReference
+/builtin_shaders
