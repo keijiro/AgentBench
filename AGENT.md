@@ -2,5 +2,5 @@
 
 - Documentation 下に格納された HTML ドキュメンテーション
 - UnityCsReference 下に格納された Unity エンジン C# ソースコード
-- UnityProject/Assets/Library/PackageCache 下のパッケージソースコード、サンプルコード、ドキュメントファイル等
+- UnityProject/Library/PackageCache 下のパッケージソースコード、サンプルコード、ドキュメントファイル等
 - BuiltinShaders 下に格納されたビルトイン・シェーダーコード
